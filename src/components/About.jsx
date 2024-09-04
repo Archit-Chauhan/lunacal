@@ -29,7 +29,7 @@ const About = () => {
                 <span class="absolute inset-0 z-10 bg-[#27282e] rounded-3xl transform scale-x-0 transition-transform duration-300 origin-top-left group-hover:scale-x-100"></span>
               </button>
               <button class="relative h-[49px] w-[195px] bg-transparent my-auto font-medium text-[#A3ADB2] overflow-hidden group" onClick={()=>setData("Recomended")}>
-                <span class="relative z-20">Recomended</span>
+                <span class="relative z-20">Recommended</span>
                 <span class="absolute inset-0 z-10 bg-[#27282e] rounded-3xl transform scale-x-0 transition-transform duration-300 origin-top-left group-hover:scale-x-100"></span>
               </button>
             </div>
